@@ -3,6 +3,7 @@ github is a version control system
 git clone url  <-- cloud pr se harddisk me copy hojae gi repo
 git status <--
 git init
+git add -A
 git commit -m "Any message"
 git push
 
