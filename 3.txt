@@ -1,0 +1,12 @@
+github is a version control system
+
+git clone url  <-- cloud pr se harddisk me copy hojae gi repo
+git status <--
+git init
+git commit -m "Any message"
+git push
+
+credential manager <-- ke folder me apne credential remove krne hote h kise new account me krne ke lye
+windows credentials
+generic credentials
+
